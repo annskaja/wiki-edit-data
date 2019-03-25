@@ -78,7 +78,7 @@ https://de.wikipedia.org/wiki/Benutzerin_Diskussion:JosFritz#Sperre):
 
 ## Datenquelle
 
-(de.wikipedia.org)[https://de.wikipedia.org/] (via [MediaWiki-API](https://www.mediawiki.org/wiki/API:Main_page))
+[de.wikipedia.org](https://de.wikipedia.org/) (via [MediaWiki-API](https://www.mediawiki.org/wiki/API:Main_page))
 
 ## Lizenz
 
