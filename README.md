@@ -75,3 +75,11 @@ https://de.wikipedia.org/wiki/Benutzerin_Diskussion:JosFritz#Sperre):
 * Es kommt in den Diskussionen zu Politik-Artikeln immer wieder zu Konflikten von Nutzern unterschiedlicher politischer Einstellung. Dazu gehören Vorwürfe, dass Nutzer bewusst [für die AfD](https://de.wikipedia.org/wiki/Benutzer_Diskussion:Lukati#AfD) in der Wikipedia zu agieren). Im Zusammenhang mit der AfD gab es auch Diskussionen über sogenannte Sockenpuppen. Nutzer sollen mehrere Accounts angelegt haben, die sich an Diskussionen beteiligen und so wirken, als würden sie die Meinung mehrerer Nutzer vertreten, [um Meinungshoheit zu erlangen](https://www.freitag.de/autoren/andreas-kemper/wikipedia-missbrauch-durch-konservativen-enttarnt).
 
 * Gerade bei umstrittenen Artikel wird sehr schnell auf politische Färbungen egal welcher Richtung reagiert. Die Diskussionen dazu sind lang und stellenweise unsachlich. Mutmaßlich dürfte das einige Nutzer ausschließen, denen es sowohl an Zeit als auch Durchhaltekraft mangelt, um in diesem Klima aktiv zu werden.
+
+## Datenquelle
+
+(de.wikipedia.org)[https://de.wikipedia.org/] (via [MediaWiki-API](https://www.mediawiki.org/wiki/API:Main_page))
+
+## Lizenz
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
